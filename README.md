@@ -38,6 +38,6 @@ Each project includes datasets, analysis, and visualizations.
 ---
 
 ## 📬 Connect with Me
-- **LinkedIn:** # https://www.linkedin.com/in/keith-waswa-b31551247/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BHybY2JUTTDSyO3zSeNpkrQ%3D%3D
+- **LinkedIn:** [(https://www.linkedin.com/in/keith-waswa-b31551247/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BHybY2JUTTDSyO3zSeNpkrQ%3D%3D)]
 - **Portfolio PDF:** [Download here](#)  
 - **Email:** #waswakeith@gmail.com
