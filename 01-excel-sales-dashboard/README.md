@@ -29,8 +29,10 @@ The dataset includes sales records with the following fields:
 - The consumer market makes half the total revenue collection and 51% of the total profit.
 
 ## Screenshots
-Dashboard Overview(https://github.com/Waswakeith/Data-Analyst-Portfolio/blob/main/01-excel-sales-dashboard/Dashboard%20Overview.png)
-Sales by Segment(./screenshots/sales_by_region.png)
+Dashboard Overview(https://github.com/Waswakeith/Data-Analyst-Portfolio/blob/main/01-excel-sales-dashboard/Dashboard%20Overview.png)    
+
+
+Sales by Segment(https://github.com/Waswakeith/Data-Analyst-Portfolio/blob/main/01-excel-sales-dashboard/Per%20Segment.png)
 
 ## How to Use
 1. Open the Excel dashboard file ().  
