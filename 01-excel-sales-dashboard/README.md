@@ -16,7 +16,7 @@ The dataset includes sales records with the following fields:
 - Region, Customer Name
 
 ## Project Structure
-- `data/` → raw and cleaned dataset CSV files  
+- `data/` → cleaned dataset CSV files  
 - `dashboard/` → Excel dashboard file (https://github.com/Waswakeith/Data-Analyst-Portfolio/blob/main/01-excel-sales-dashboard/Sales%20Dashbord.xlsm)  
 - `screenshots/` → images of dashboard visuals  
 - `README.md` → project description  
@@ -26,7 +26,7 @@ The dataset includes sales records with the following fields:
 - The West region has the highest revenue, while South region has the lowest. 
 - The East region makes the most profit. 
 - Monthly sales show strong seasonal trends with peaks in November and December.  
-- The consumer market makes half the total revenue collection and 51% of the total profit.
+- The consumer segment/market makes half the total revenue collection and 51% of the total profit.
 
 ## Screenshots
 Dashboard Overview(https://github.com/Waswakeith/Data-Analyst-Portfolio/blob/main/01-excel-sales-dashboard/Dashboard%20Overview.png)    
@@ -35,10 +35,10 @@ Dashboard Overview(https://github.com/Waswakeith/Data-Analyst-Portfolio/blob/mai
 Sales by Segment(https://github.com/Waswakeith/Data-Analyst-Portfolio/blob/main/01-excel-sales-dashboard/Per%20Segment.png)
 
 ## How to Use
-1. Open the Excel dashboard file ().  
-2. Explore **PivotTables** and **Slicers** to filter by region, category, or month.  
-3. Analyze key metrics: Sales, Profit, Discount, Quantity.  
-4. Optional: Update the `data/` folder with new datasets and refresh PivotTables.
+1. Open the Excel dashboard file (https://github.com/Waswakeith/Data-Analyst-Portfolio/blob/main/01-excel-sales-dashboard/Sales%20Dashbord.xlsm).  
+2. Explore PivotTables and Slicers to filter by region, category, or month.  
+3. Analyze key metrics: Sales, Profit, region,segment, Quantity.  
+
 
 ## Conclusion
-This project demonstrates skills in **Excel data analysis, visualization, and dashboard creation**, essential for data-driven decision making.
+This project demonstrates skills in Excel data analysis, visualization, and dashboard creation, essential for data-driven decision making.
